@@ -1,0 +1,1 @@
+ D:\\Flutter\\Flutter\ Projects\\flutter_folder_structure_kit-master\\.dart_tool\\flutter_build\\5d4e195b78fe7027819f499aadf1a93a\\native_assets.json: 
